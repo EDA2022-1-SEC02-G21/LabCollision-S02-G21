@@ -210,9 +210,10 @@ def sortBooksByYear(ctrlr, year, rank):
     
     tracemalloc.stop()
     
-    delta_time = delta_time(stop_time,start_time)
+    delta_time = deltaTime(stop_time,start_time)
     
-    delta_memory= delta_memory(stop_memory,start_memory)
+    delta_memory= deltaMemory(stop_memory,start_memory)
+    
     return books,delta_time,delta_memory
 
 
