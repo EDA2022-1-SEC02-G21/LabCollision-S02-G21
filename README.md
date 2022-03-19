@@ -1,3 +1,6 @@
+# Santiago Tenjo - 202113965 - s.tenjov@uniandes.edu.co
+# Juan Esteban Jimenez - 201922487 - j.jimenezb@uniandes.edu.co
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
